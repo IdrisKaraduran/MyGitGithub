@@ -14,6 +14,9 @@ public class AtmApp {
         System.out.println("Danach haben wir geheiratet");
         System.out.println("Am Ende hatten wir traurig");
 
+        System.out.println("Master branch de ozellik var");
+
+
     }
 
 }
