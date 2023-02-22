@@ -16,6 +16,7 @@ public class AtmApp {
 
         System.out.println("Master branch de ozellik var");
 
+        System.out.println( "Esra hat  meine Frage nicht gewusst");
 
     }
 
