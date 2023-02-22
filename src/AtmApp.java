@@ -5,6 +5,8 @@ public class AtmApp {
 
         System.out.println("Lerne Java und verdine viel Geld");
 
+
+        System.out.println("Git Cok kolay");
     }
 
 }
